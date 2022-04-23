@@ -1,0 +1,6 @@
+framework module SuprSendShared {
+    umbrella header "SuprSendShared.h"
+
+    export *
+    module * { export * }
+}
